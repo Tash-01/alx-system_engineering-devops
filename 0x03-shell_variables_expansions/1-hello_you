@@ -1,2 +1,2 @@
 #!/b8n/bash
-ech 'hello $USER'
+echo hello $USER
